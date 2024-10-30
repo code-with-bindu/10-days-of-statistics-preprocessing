@@ -1,6 +1,7 @@
 # Day 3
 ## Confidence Intervals:-
-**Standard Error:** https://www.scribbr.com/statistics/standard-error/ \
+**Standard Error:**
+https://www.scribbr.com/statistics/standard-error/ \
 **Article:** https://towardsdatascience.com/a-very-friendly-introduction-to-confidence-intervals-9add126e714 \
 **Calculate CI:** https://www.statisticshowto.com/probability-and-statistics/confidence-interval/ \
 **CI Visualizer:** https://rpsychologist.com/d3/ci/ \

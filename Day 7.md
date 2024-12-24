@@ -1,4 +1,5 @@
 # Day 7
+
 ## Feature Encodings:-
 **Article:** https://www.geeksforgeeks.org/feature-encoding-techniques-machine-learning/ \
 **Article II:** https://towardsdatascience.com/all-about-categorical-variable-encoding-305f3361fd02 \
